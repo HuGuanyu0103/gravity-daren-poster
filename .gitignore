@@ -1,0 +1,7 @@
+# 脚本生成的产物（可由 build_kv_head.py / shot.js 重新生成）
+kv_head.png
+*_output.png
+*_thumb.png
+引力专项档案·*.png
+引力专项档案·*.html
+node_modules/
